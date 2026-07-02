@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CAD-SolidWorks-red?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Drawings-PDF-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/CAD-SolidWorks-brightred?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Drawings-PDF-brightblue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Status-Continuously%20Updated-brightgreen?style=for-the-badge">
 </p>
 
