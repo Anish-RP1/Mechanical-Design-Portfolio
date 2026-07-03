@@ -1,4 +1,3 @@
-<p
-  align="center">
-  <img src="Projects/Carabiner/Carabiner.PNG" alt="Carabiner" width="100%">
+<p align="center">
+  <img src="images/banner.png" alt="Mechanical Design Portfolio Banner" width="100%">
 </p>
