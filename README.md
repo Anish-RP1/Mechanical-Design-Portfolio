@@ -50,7 +50,7 @@ I aim to continually expand this repository with increasingly complex projects a
 
 | Project | Description |
 |----------|-------------|
-| 🧗 [Carabiner](Projects/Carabiner/README.md) | Mechanical carabiner demonstrating complex profiles and smooth transitions. |
+| 🧗 [Carabiner](Projects/Carabiner) | Mechanical carabiner demonstrating complex profiles and smooth transitions. |
 | ♟️ [Chess Pawn](Projects/Chess_Pawn/README.md) | Revolved component showcasing symmetry and profile modelling. |
 | ⚙️ [Flanged Shaft Mount](Projects/Flanged_Shaft_Mount/README.md) | Mounting component featuring bolt patterns and shaft alignment. |
 | 📦 [Hinged Lid](Projects/Hinged_Lid/README.md) | Functional hinged enclosure demonstrating mechanical fit. |
