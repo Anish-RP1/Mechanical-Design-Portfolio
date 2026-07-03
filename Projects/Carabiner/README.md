@@ -1,1 +1,4 @@
-![Carabiner](Mechanical-Design-Portfolio/Projects/Carabiner/Carabiner.PNG)
+<p
+  align="center">
+  <img src="Projects/Carabiner/Carabiner.PNG" alt="Carabiner" width="100%">
+</p>
