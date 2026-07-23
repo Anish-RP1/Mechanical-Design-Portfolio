@@ -32,6 +32,7 @@ I aim to continually expand this repository with increasingly complex projects a
 - 3D Part Modelling
 - Engineering Drawings
 - Sketch-Based Design
+- Sheet Metal Design
 - Design Intent
 - Feature-Based Modelling
 - Revolves
@@ -59,6 +60,7 @@ I aim to continually expand this repository with increasingly complex projects a
 | 🔩 [Symmetric Clamping Block](Projects/Symmetric_Clamping_Block) | Clamping component using mirrored geometry with counterbored fastner holes. |
 | 🔧 [Tube Clamp](Projects/Tube_Clamp) | Cylindrical clamp designed for secure fastening. |
 | 🪣 [Contoured Container](Projects/Contoured_Container) | Hollow shell-based container with curved surfaces. |
+| 🌀 [Sheet Metal Vent](Projects/Vent) | Bent Sheet Metal using vent features modifying Ribs and Spars. |
 
 ---
 
@@ -164,10 +166,21 @@ I aim to continually expand this repository with increasingly complex projects a
 
 ---
 
+## 🌀 Sheet Metal Vent
+
+**Skills Used**
+
+- Sheet Metal Base Flange
+- Vent Features
+- Break Corners
+- Fillets
+- Flatten Features
+
+---
+
 # Software
 
 - SolidWorks
-- PDF Engineering Drawings
 - Git & GitHub
 
 ---
