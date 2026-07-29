@@ -60,8 +60,8 @@ I aim to continually expand this repository with increasingly complex projects a
 | 🔩 [Symmetric Clamping Block](Projects/Symmetric_Clamping_Block) | Clamping component using mirrored geometry with counterbored fastner holes. |
 | 🔧 [Tube Clamp](Projects/Tube_Clamp) | Cylindrical clamp designed for secure fastening. |
 | 🪣 [Contoured Container](Projects/Contoured_Container) | Hollow shell-based container with curved surfaces. |
-| 🌀 [Sheet Metal Vent](Projects/Vent) | Bent Sheet Metal using vent features modifying Ribs and Spars. |
-
+| 💨 [Sheet Metal Vent](Projects/Vent) | Bent Sheet Metal using vent features modifying Ribs and Spars. |
+| 🌀 [PC Fan](Projects/PC Fan) | Assembly Model utilising motion Studies alongside complex geometry. |
 ---
 
 # Featured Projects
@@ -166,7 +166,7 @@ I aim to continually expand this repository with increasingly complex projects a
 
 ---
 
-## 🌀 Sheet Metal Vent
+## 💨 Sheet Metal Vent
 
 **Skills Used**
 
@@ -175,6 +175,18 @@ I aim to continually expand this repository with increasingly complex projects a
 - Break Corners
 - Fillets
 - Flatten Features
+
+---
+
+## 🌀 PC Fan
+
+**Skills Used**
+
+- Spline Sketch
+- Lofted Boss
+- Motion Studies
+- Mates
+- Circular Patterns
 
 ---
 
