@@ -61,7 +61,7 @@ I aim to continually expand this repository with increasingly complex projects a
 | 🔧 [Tube Clamp](Projects/Tube_Clamp) | Cylindrical clamp designed for secure fastening. |
 | 🪣 [Contoured Container](Projects/Contoured_Container) | Hollow shell-based container with curved surfaces. |
 | 💨 [Sheet Metal Vent](Projects/Vent) | Bent Sheet Metal using vent features modifying Ribs and Spars. |
-| 🌀 [PC Fan](Projects/PC FAN)  | Assembly Model utilising motion Studies alongside complex geometry. |
+| 🌀 [PC Fan](Projects/PC_Fan)  | Assembly Model utilising motion Studies alongside complex geometry. |
 ---
 
 # Featured Projects
